@@ -5,20 +5,15 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Featured Section](#featured-section)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
 
+ - War is over
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-![](./screenshot.jpg)
-
-![](./screenshot.jpg)
+![Norman Rockwell](./NR-Christmas.jpg)
 
 ### Links
 
@@ -31,29 +26,6 @@
 
 - HTML5 markup
 - CSS  
-- Flexbox
-- Vanilla JavaScript
-- Mobile-first workflow
-
-### Featured Section
-
-
-```html
-```
-
-```css
-```
-
-```js
-```
-
-### Useful resources
-
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
 
 ## Author
 
