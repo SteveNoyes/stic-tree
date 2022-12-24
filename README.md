@@ -9,11 +9,11 @@
 
 ## Overview
 
- - War is over
+ - Merry Christmas
 
 ### Screenshot
 
-![Norman Rockwell](./NR-Christmas.jpg)
+![Norman Rockwell](./merryChristmas.jpg)
 
 ### Links
 

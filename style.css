@@ -1,7 +1,3 @@
-* {
-  border: 3px solid gold;
-}
-
 .container {
   position: relative;
   width: 380px;
@@ -19,6 +15,16 @@
   height: 100%;
   left: 13%;
   top: 5%;
+}
+
+.trunk {
+  position: absolute;
+  width: 10%;
+  height: 16%;
+  background: #66503e;
+  z-index: -1;
+  bottom: 5%;
+  left: 32%;
 }
 
 .tree-triangle3 {
