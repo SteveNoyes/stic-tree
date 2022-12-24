@@ -9,22 +9,14 @@
   z-index: -2;
 }
 
+/* Main Tree */
+
 .tree {
   position: absolute;
   width: 100%;
   height: 100%;
   left: 13%;
   top: 5%;
-}
-
-.trunk {
-  position: absolute;
-  width: 10%;
-  height: 16%;
-  background: #66503e;
-  z-index: -1;
-  bottom: 5%;
-  left: 32%;
 }
 
 .tree-triangle3 {
@@ -59,6 +51,16 @@
   z-index: 3;
 }
 
+.trunk {
+  position: absolute;
+  width: 10%;
+  height: 16%;
+  background: #66503e;
+  z-index: -1;
+  bottom: 5%;
+  left: 32%;
+}
+
 /* Ornaments */
 
 .ornament {
@@ -68,6 +70,19 @@
   border-radius: 50%;
   box-shadow: 0 0 3px #033b26;
   z-index: 4;
+}
+
+/* redrum */
+
+.shine {
+  position: absolute;
+  width: 55%;
+  height: 55%;
+  top: 10%;
+  right: 11%;
+  border-radius: 50%;
+  background: white;
+  filter: opacity(60%);
 }
 
 .or1 {
@@ -104,19 +119,6 @@
   left: 15%;
   top: 68%;
   background: #c91212;
-}
-
-/* redrum */
-
-.shine {
-  position: absolute;
-  width: 55%;
-  height: 55%;
-  top: 10%;
-  right: 11%;
-  border-radius: 50%;
-  background: white;
-  filter: opacity(60%);
 }
 
 /* Star */
@@ -177,8 +179,6 @@
   z-index: 3;
   animation: star 3s ease-in-out infinite;
 }
-
-/* FLicker */
 
 @keyframes star {
   100% {
