@@ -24,7 +24,7 @@
 
 ### Built with
 
-- HTML5 markup
+- HTML5
 - CSS  
 
 ## Author
