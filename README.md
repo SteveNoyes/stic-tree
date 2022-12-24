@@ -13,7 +13,7 @@
 
 ### Screenshot
 
-![Norman Rockwell](./merryChristmas.jpg)
+![](./merryChristmas.jpg)
 
 ### Links
 

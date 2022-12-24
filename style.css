@@ -58,3 +58,14 @@
   clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
   z-index: 3;
 }
+
+/* Ornaments */
+
+.ornament {
+  position: absolute;
+  width: 10%;
+  height: 10%;
+  border-radius: 50%;
+  box-shadow: 0 0 3px #033b26;
+  z-index: 4;
+}
