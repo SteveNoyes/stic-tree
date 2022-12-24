@@ -17,7 +17,7 @@
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/SteveNoyes/stic-tree)
+- Repository URL: [GitHub Repo](https://github.com/SteveNoyes/stic-tree)
 - Live Site URL: [GitHub Pages](https://stevenoyes.github.io/stic-tree/)
 
 ## My process
