@@ -112,3 +112,38 @@
   top: 11%;
   z-index: 4;
 }
+
+.star-highlight {
+  position: absolute;
+  width: 20%;
+  height: 20%;
+  background: #fff1bf;
+  clip-path: polygon(
+    50% 0%,
+    61% 35%,
+    98% 35%,
+    68% 57%,
+    79% 91%,
+    50% 70%,
+    50% 70%,
+    50% 60%,
+    50% 46%,
+    50% 36%
+  );
+  left: 26.5%;
+  top: 11%;
+  z-index: 4;
+}
+
+.star-light {
+  position: absolute;
+  width: 20%;
+  height: 20%;
+  background: #fff1bf;
+  filter: opacity(0.7);
+  border-radius: 50%;
+  left: 26.5%;
+  top: 11%;
+  z-index: 3;
+  animation: star 3s ease-in-out infinite;
+}
